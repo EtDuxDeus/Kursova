@@ -1,0 +1,10 @@
+C:\Users\miner\Desktop\Graphic\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\miner\Desktop\Graphic\Graphic\obj\Debug\graphic.Form1.resources
+C:\Users\miner\Desktop\Graphic\Graphic\obj\Debug\graphic.Properties.Resources.resources
+C:\Users\miner\Desktop\Graphic\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\miner\Desktop\Graphic\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\miner\Desktop\Graphic\Graphic\bin\Debug\graphic.exe.config
+C:\Users\miner\Desktop\Graphic\Graphic\bin\Debug\graphic.exe
+C:\Users\miner\Desktop\Graphic\Graphic\bin\Debug\graphic.pdb
+C:\Users\miner\Desktop\Graphic\Graphic\obj\Debug\graphic.exe
+C:\Users\miner\Desktop\Graphic\Graphic\obj\Debug\graphic.pdb
